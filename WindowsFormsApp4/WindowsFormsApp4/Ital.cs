@@ -23,6 +23,6 @@ namespace WindowsFormsApp4
                 temp += "Alkoholos";
             }
             return temp;
-        }
+        } //komment
     }
 }
